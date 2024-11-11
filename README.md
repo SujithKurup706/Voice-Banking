@@ -1,5 +1,5 @@
 # Voice Banking Implementation
-With approximately 10 years of implementation experience in Voice Banking (VB), I have successfully executed over 150 VB projects for large banks and credit unions during my tenure with this company. This extensive experience has provided me with a deep understanding of the implementation process, customer needs, and effective problem-solving strategies.
+With approximately 10 years of implementation experience in Voice Banking (VB), I have successfully executed over 150 VB projects for large banks and credit unions during my tenure with this companys. This extensive experience has provided me with a deep understanding of the implementation process, customer needs, and effective problem-solving strategies.
 
 # Implementation Process
 ## 1. Project Initiation and Requirements Gathering
